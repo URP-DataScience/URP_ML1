@@ -1,2 +1,2 @@
-# Term2
+# Machine Learning - Foundation Project
  
